@@ -20,3 +20,5 @@ file_path = os.path.join(script_dir, "sine_data.csv")
 data.to_csv(file_path, index=False)
 
 print(f"CSV file saved at: {file_path}")
+
+
